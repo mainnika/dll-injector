@@ -1,0 +1,4 @@
+syntax: glob
+x64/
+*.sdf
+*.suo
